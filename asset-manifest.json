@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/LBCA-Dashboard-Screen/static/css/main.3f93b7bb.css",
+    "main.js": "/LBCA-Dashboard-Screen/static/js/main.c6a812d7.js",
+    "static/js/453.3a415d55.chunk.js": "/LBCA-Dashboard-Screen/static/js/453.3a415d55.chunk.js",
+    "index.html": "/LBCA-Dashboard-Screen/index.html",
+    "main.3f93b7bb.css.map": "/LBCA-Dashboard-Screen/static/css/main.3f93b7bb.css.map",
+    "main.c6a812d7.js.map": "/LBCA-Dashboard-Screen/static/js/main.c6a812d7.js.map",
+    "453.3a415d55.chunk.js.map": "/LBCA-Dashboard-Screen/static/js/453.3a415d55.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3f93b7bb.css",
+    "static/js/main.c6a812d7.js"
+  ]
+}

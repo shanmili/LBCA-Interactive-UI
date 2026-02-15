@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import Sidebar from '../components/layout/Sidebar';
 import TopNav from '../components/layout/TopNav';
 import AnalyticsContent from '../components/dashboard/AnalyticsContent';
+import StudentsPage from '../components/dashboard/StudentsPage';
 import UnderMaintenance from '../components/common/UnderMaintenance'; 
 import '../styles/DashboardScreen.css';
 
@@ -15,7 +16,7 @@ export default function DashboardScreen() {
       case 'dashboard':
         return <AnalyticsContent onNavigate={setActiveTab} />;
       case 'students':
-        return <UnderMaintenance title="Students Module" />;
+        return <StudentsPage />;
       case 'grades':
         return <UnderMaintenance title="Grades & Records" />;
       case 'attendance':

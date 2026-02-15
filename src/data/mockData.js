@@ -40,3 +40,13 @@ export const activityFeed = [
   { id: 3, type: 'attendance', text: "Attendance finalized for Section A", time: "2 hours ago" },
   { id: 4, type: 'system', text: "System maintenance scheduled for 10 PM", time: "5 hours ago" },
 ];
+
+//Students Data (for Students Page)
+export const studentsData = [
+  { id: 1001, name: "de Gala, Shanmae Leigh P.", section: "Section A" },
+  { id: 1002, name: "Maco, Sef Rowinston M.", section: "Section B" },
+  { id: 1003, name: "Evasco, Keybird N.", section: "Section B" },
+  { id: 1004, name: "Alion, Norhaifah", section: "Section C" },
+];
+
+
